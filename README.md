@@ -1,7 +1,8 @@
 # Predicting Boston Housing Prices
 ## Machine Learning Engineer Nanodegree
+## Topic: Model Evaluation and Validation
 
-*Predict housing prices in Boston. Practice using model evaluation and validation.*
+*Predict the selling price of a new home in the Boston, Massachusetts area.*
 
 ### My completed project is here:
 
