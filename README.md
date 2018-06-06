@@ -8,6 +8,8 @@
 
 [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project/blob/master/boston_housing.ipynb)
 
+[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project/blob/master/boston_housing.pdf)
+
 [html version](https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project/blob/master/report.html)
 
 ## Project Overview
