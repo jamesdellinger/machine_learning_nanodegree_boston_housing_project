@@ -19,7 +19,7 @@
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project/blob/master/boston_housing_project_grading_rubric.pdf)
 
-## Dependencies:
+### Dependencies:
 
 * [requirements.txt](https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project/blob/master/requirements.txt)
 
