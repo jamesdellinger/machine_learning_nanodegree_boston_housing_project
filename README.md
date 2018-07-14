@@ -14,10 +14,10 @@
 
 * Using Pandas to explore and preprocess a real-world dataset that contains missing values, outliers, and various other idiosyncrasies.
 * Shuffling and splitting a dataset into training and testing sets, in order to evaluate a model's performance on unseen data.
-* Defining a performance metric to evaluate a model's performance. I use R^2, the coefficient of determination.
-* Visually depicting a model's performance with learning curves, and using complexity curves to observe the tradeoff between bias (underfitting) and variance(overfitting).
+* Defining a performance metric to evaluate a model's performance. I use R^2, the [coefficient of determination](https://en.wikipedia.org/wiki/Coefficient_of_determination).
+* Visually depicting a model's learning performance with learning curves, and using complexity curves to observe the tradeoff between bias (underfitting) and variance (overfitting).
 * Training a Decision Tree regressor from Scikit-Learn that generalizes to unseen data.
-* Finding the best performing hyperparameters with GridSearch and K-Fold cross validation.
+* Finding the best performing hyperparameters by using GridSearch and K-Fold cross validation.
 * Conducting sensitivity analysis on a fully-trained model.
 
 ### My completed project:
