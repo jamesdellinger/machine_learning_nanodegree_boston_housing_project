@@ -1,8 +1,13 @@
-# Predicting Boston Housing Prices
-## Machine Learning Engineer Nanodegree
-## Topic: Model Evaluation and Validation
-
+# Project: Predicting Boston Housing Prices
 *Predict the selling price of a new home in the Boston, Massachusetts area.*
+### For Udacity's Machine Learning Engineer Nanodegree
+<img src="https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project/blob/master/mlndlogo.png" height="140">
+
+### Topic: Model Evaluation and Validation
+
+### Overview:
+
+
 
 ### My completed project:
 
